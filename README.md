@@ -1,1 +1,1 @@
-# eduTechMain
+# eduTech
